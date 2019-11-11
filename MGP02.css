@@ -1,0 +1,157 @@
+
+#myCarousel{
+    background: #002A3A;
+    text-align: center;
+    min-height:115px;
+    margin-bottom: 0px;
+    font-size: 120%;
+
+}
+
+#Call-Action1{
+    color: white;
+    text-align: center;
+    min-height:50px;
+    margin: 100px;
+}
+
+#hr1{
+    color:#002A3A;
+}
+
+#Call-Action2{
+    color: red;
+    text-align: center;
+}
+
+#container2{
+    text-align: center;
+    display: inline-block;
+    
+}
+
+#logodes{
+    text-align: center;
+    background: white;
+    
+}
+#logo{
+    text-align: center;
+}
+
+#container3{
+    word-wrap: break-word;
+    font-size: x-large;
+}
+
+#Class-Action2{
+    word-wrap: break-word;
+    background: #D1CCBD;
+
+}
+
+#CA2TEXT{
+    color: #2A514D;
+    word-wrap: break-word;
+    font-size: 200%;
+    text-align: center;
+}
+
+#CA2TEXT1{
+    color: #2A514D;
+    word-wrap: break-word;
+    font-size: 100%;
+    text-align: center;
+}
+
+#CA2TEXT2{
+    color: #2A514D;
+    word-wrap: break-word;
+    font-size: 50%;
+    text-align: center;
+}
+
+#yes{
+    color: #2A514D;
+    word-wrap: break-word;
+    font-size: 100%;
+    text-align: center;
+}
+
+#purpose{
+    color: #2A514D;
+    word-wrap: break-word;
+    font-size: 70%;
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 50%;
+    padding: 0px;
+}
+
+.row {
+    content:" ";
+    clear: both;
+    display: table;
+}
+
+.container4{
+    background: #D1CCBD;
+}
+
+#Aboutustext1{
+    background: #E4D5D3;
+    color: #2A514D;
+    text-align: center;
+}
+
+#aboutustext{
+    text-align: center;
+    background: #E4D5D3;
+}
+
+.container5{
+
+    background:#D1CCBD;
+}
+
+
+#clientreviews{
+    color: #2A514D;
+    text-align: center;
+   
+}
+
+
+#footer2{
+    color: #D1CCBD;
+    text-align: center;
+    font-size: 200%;
+}
+
+
+#footer1{
+    color: #2A514D;
+    text-align: center;
+    font-size: 100%;
+}
+
+#subscribe{
+    text-align: center;
+    background: #D1CCBD;
+    color: #2A514D;
+}
+#submitbutton{
+    color: #2A514D;
+    background: #D1CCBD;
+}
+
+#PrivacyPolicy{
+    font-size: smaller;
+}
+
